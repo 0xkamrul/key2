@@ -1,9 +1,10 @@
+
 {
- "threads": 50,
- "siteList": "sites.txt",
- "outputList": "stp.txt",
- "timeout": 10,
- "paths": ["/.vscode/sftp.json"],
- "contents": ["\"remotePath\":"],
- "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
+	"threads": 50,
+	"siteList": "sites.txt",
+	"outputList": "dup.txt",
+	"timeout": 30,
+	"paths": ["/dup-installer/main.installer.php"],
+	"contents": ["Duplicator"],
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36"
 }
