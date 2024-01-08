@@ -1,5 +1,5 @@
 {
-	"threads": 100,
+	"threads": 70,
 	"siteList": "sites.txt",
 	"outputList": "dup.txt",
 	"timeout": 30,
