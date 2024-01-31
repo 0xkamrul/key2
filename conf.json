@@ -1,7 +1,7 @@
 {
 	"threads": 70,
 	"siteList": "sites.txt",
-	"outputList": "dup.txt",
+	"outputList": "st.txt",
 	"timeout": 30,
 	"paths": ["/.vscode/sftp.json"],
 	"contents": ["\"remotePath\":"],
