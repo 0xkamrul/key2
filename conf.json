@@ -1,7 +1,7 @@
 {
 	"threads": 70,
 	"siteList": "sites.txt",
-	"outputList": "st.txt",
+	"outputList": "dup.txt",
 	"timeout": 30,
 	"paths": ["/dup-installer/main.installer.php"],
 	"contents": ["Duplicator"],
