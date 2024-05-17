@@ -1,1 +1,1 @@
-http://68.183.226.4:31333/alu/nx/kag/get.php
+http://68.183.226.4:31333/alu/chaos/get.php
