@@ -1,5 +1,5 @@
 {
-	"threads": 70,
+	"threads": 100,
 	"siteList": "sites.txt",
 	"outputList": "dup-sft.txt",
 	"timeout": 30,
