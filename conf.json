@@ -1,10 +1,10 @@
 {
 	"threads": 100,
 	"siteList": "sites.txt",
-	"outputList": "sftp.txt",
+	"outputList": "sqli.txt",
 	"timeout": 10,
-	"paths": ["/.vscode/sftp.json"],
-	"contents": ["\"remotePath\":"],
+	"paths": ["/_api/json/v1/default/?method=processAsyncObject", "/index.cfm/_api/json/v1/default/?method=processAsyncObject"],
+	"contents": ["\"apiversion\":\"v1\""],
 	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
 	"iterationDelay": 2000
 }
