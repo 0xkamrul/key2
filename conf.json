@@ -1,5 +1,5 @@
 {
-	"threads": 150,
+	"threads": 100,
 	"siteList": "sites.txt",
 	"outputList": "swagger.txt",
 	"timeout": 10,
