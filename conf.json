@@ -2,7 +2,7 @@
   "threads": 100,
   "siteList": "sites.txt",
   "outputList": "global.txt",
-  "timeout": 5,
+  "timeout": 8,
   "paths": [
     "old/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/.css",
     "/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/.css",
