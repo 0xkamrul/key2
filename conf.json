@@ -1,7 +1,7 @@
 {
   "threads": 100,
   "siteList": "sites.txt",
-  "outputList": "NIGGA.txt",
+  "outputList": "AZU.txt",
   "timeout": 8,
   "paths": [
     "old/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/.css",
