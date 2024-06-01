@@ -47,6 +47,11 @@
     "/old/test1.php",
     "/new/test.php",
     "/bak/test.php",
+    "/global-protect/login.esp",
+    "/vpn/global-protect/login.esp",
+    "/security/global-protect/login.esp",
+    "/old/global-protect/login.esp",
+    "/backup/global-protect/login.esp",
     "/Old/test.php"
   ],
   "contents": [
@@ -58,6 +63,7 @@
     "int(436345754)",
     "\"remotePath\":",
     "Duplicator",
+    "GlobalProtect Portal",
     "SENDGRID_API_KEY",
     "<img src=x onerror=\"prompt(document.domain)\">aaaaaaaaaaaa",
     "wddxPacket",
