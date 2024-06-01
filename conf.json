@@ -1,7 +1,7 @@
 {
   "threads": 100,
   "siteList": "sites.txt",
-  "outputList": "global.txt",
+  "outputList": "NIGGA.txt",
   "timeout": 8,
   "paths": [
     "old/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/.css",
@@ -47,6 +47,9 @@
     "/vpn/global-protect/login.esp",
     "/security/global-protect/login.esp",
     "/old/global-protect/login.esp",
+    "/old/carbon/admin/login.jsp?loginStatus=false&errorCode=%27);alert(document.domain)//",
+    "/app/carbon/admin/login.jsp?loginStatus=false&errorCode=%27);alert(document.domain)//",
+    "/carbon/admin/login.jsp?loginStatus=false&errorCode=%27);alert(document.domain)//",
     "/backup/global-protect/login.esp",
     "/Old/test.php"
   ],
@@ -55,6 +58,7 @@
     "PHP Extension",
     "PHP Version",
     "owncloud",
+    "alert(document.domain)",
     "int(436345754)",
     "\"remotePath\":",
     "Duplicator",
