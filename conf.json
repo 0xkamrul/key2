@@ -5,10 +5,6 @@
   "timeout": 5,
   "paths": [
     "old/apps/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/.css",
-    "/server-status",
-    "/old/server-status",
-    "/apache/server-status",
-    "/server/server-status",
     "/graphapi/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/.css",
     "/vendor/microsoft/microsoft-graph/tests/GetPhpInfo.php/.css",
     "/wp-content/plugins/ad-inserter/ad-inserter.php?wall=dmFyX2R1bXAoNDM2MzQ1NzU0KTs=",
@@ -56,7 +52,6 @@
   ],
   "contents": [
     "Configuration File (php.ini) Path",
-    "Apache Status",
     "PHP Extension",
     "PHP Version",
     "owncloud",
