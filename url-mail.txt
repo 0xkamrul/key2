@@ -1,1 +1,1 @@
-http://68.183.226.4:31333/alu/smtp/tst/jp/lol/get.php
+http://91.92.251.204:1337/get.php
