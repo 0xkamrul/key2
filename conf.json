@@ -6,10 +6,7 @@
   "paths": [
     "/.vscode/sftp.json",
     "/sftp-config.json",
-    "/sftp.json",
-    "/dev/.vscode/sftp.json",
-    "/.vscode/sftp.json.bak",
-    "/.git/sftp.json"
+    "/dev/.vscode/sftp.json"
   ],
   "contents": [
     "\"remotePath\":"
