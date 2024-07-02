@@ -1,1 +1,1 @@
-http://91.92.251.204:1337/ch/ka/st/get.php
+http://103.191.50.51:31337/dom/get.php
