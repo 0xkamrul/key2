@@ -2,7 +2,7 @@
   "threads": 100,
   "siteList": "sites.txt",
   "outputList": "st.txt",
-  "timeout": 5,
+  "timeout": 15,
   "paths": [
     "/.vscode/sftp.json",
     "/sftp-config.json",
