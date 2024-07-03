@@ -4,9 +4,7 @@
   "outputList": "st.txt",
   "timeout": 15,
   "paths": [
-    "/.vscode/sftp.json",
-    "/sftp-config.json",
-    "/dev/.vscode/sftp.json"
+    "/.vscode/sftp.json"
   ],
   "contents": [
     "\"remotePath\":"
