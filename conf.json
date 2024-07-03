@@ -1,13 +1,15 @@
 {
   "threads": 100,
   "siteList": "sites.txt",
-  "outputList": "st.txt",
+  "outputList": "jst.txt",
   "timeout": 15,
   "paths": [
-    "/.vscode/sftp.json"
+    "/.vscode/sftp.json",
+    "/Telerik.Web.UI.WebResource.axd?type=rau"
   ],
   "contents": [
-    "\"remotePath\":"
+    "\"remotePath\":",
+    "RadAsyncUpload"
   ],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 30
