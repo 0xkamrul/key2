@@ -5,11 +5,12 @@
   "timeout": 15,
   "paths": [
     "/.vscode/sftp.json",
-    "/Telerik.Web.UI.WebResource.axd?type=rau"
+    "/.env"
   ],
   "contents": [
     "\"remotePath\":",
-    "RadAsyncUpload"
+    "APP_KEY=base64",
+    "DB_HOST="
   ],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 30
