@@ -4,13 +4,26 @@
   "outputList": "est.txt",
   "timeout": 15,
   "paths": [
-    "/.vscode/sftp.json",
-    "/.env"
+    "/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/Admin/ServerSide/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/App_Master/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/AsiCommon/Controls/ContentManagement/ContentDesigner/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/Components/General/Admin/UserControl/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/DesktopModule/UIQuestionControls/UIAskQuestion/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/DesktopModules/TNComments/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/DesktopModules/TelerikWebUI/RadEditorProvider/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/Modules/CMS/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/_controls/responsive/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/cms/portlets/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/common/admin/Calendar/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/common/admin/Jobs2/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/common/admin/PhotoGallery2/Telerik.Web.UI.WebResource.axd?type=rau",
+    "/dashboard/UserControl/CMS/Page/Telerik.Web.UI.WebResource.axd?type=rau"
   ],
   "contents": [
-    "\"remotePath\":",
-    "APP_KEY=base64",
-    "DB_HOST="
+    "RadAsyncUpload"
   ],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 30
