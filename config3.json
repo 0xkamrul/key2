@@ -1,7 +1,7 @@
 {
   "Method": "HEAD",
   "Status code": [200, 301],
-  "threads": 100,
+  "threads": 10,
   "siteList": "sites.txt",
   "outputList": "tele.txt",
   "timeout": 15,
