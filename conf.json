@@ -1,7 +1,7 @@
 {
   "threads": 100,
   "siteList": "sites.txt",
-  "outputList": "137le.txt",
+  "outputList": "tele.txt",
   "timeout": 15,
   "paths": [
     "/Telerik.Web.UI.WebResource.axd?type=rau"
