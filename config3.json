@@ -1,1 +1,11 @@
-
+{
+  "Method": "HEAD",
+  "threads": 100,
+  "siteList": "sites.txt",
+  "outputList": "tele.txt",
+  "timeout": 15,
+  "paths": ["/api"],
+  "contents": ["ruect", "Regex:^example.*$"],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
+  "iterationDelay": 30
+}
