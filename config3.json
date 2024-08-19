@@ -1,5 +1,6 @@
 {
   "Method": "HEAD",
+  "Status code": [200, 301],
   "threads": 100,
   "siteList": "sites.txt",
   "outputList": "tele.txt",
