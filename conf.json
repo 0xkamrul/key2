@@ -1,14 +1,10 @@
 {
   "threads": 100,
   "siteList": "sites.txt",
-  "outputList": "tele.txt",
-  "timeout": 15,
-  "paths": [
-    "/Telerik.Web.UI.WebResource.axd?type=rau"
-  ],
-  "contents": [
-    "RadAsyncUpload"
-  ],
+  "outputList": "env.txt",
+  "timeout": 5,
+  "paths": ["/.env", "/api/.env", "/backend/.env", "/core/.env"],
+  "contents": ["APP_KEY=base64","DB_HOST="],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 30
 }
