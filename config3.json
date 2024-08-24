@@ -1,5 +1,5 @@
 {
-  "Method": "HEAD",
+  "Method": "GET",
   "Status code": [200, 301],
   "threads": 10,
   "siteList": "sites.txt",
