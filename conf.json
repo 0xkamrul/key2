@@ -1,10 +1,10 @@
 {
   "threads": 100,
   "siteList": "sites.txt",
-  "outputList": "env.txt",
+  "outputList": "aws.txt",
   "timeout": 5,
-  "paths": ["/.env", "/api/.env", "/backend/.env", "/core/.env"],
-  "contents": ["APP_KEY=base64","DB_HOST="],
+  "paths": ["/.aws/credentials", "/sendgrid.env", "/sendgrid/.env", "/XAMPP/.env"],
+  "contents": ["aws_access_key_id","SENDGRID_API_KEY","APP_KEY"],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 30
 }
