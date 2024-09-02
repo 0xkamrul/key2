@@ -4,7 +4,7 @@
   "outputList": "aws.txt",
   "timeout": 5,
   "paths": ["/.aws/credentials", "/sendgrid.env"],
-  "contents": ["aws_access_key_id","SENDGRID_API_KEY"],
+  "contents": ["aws_access_key_id", "SENDGRID_API_KEY"],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
   "iterationDelay": 30
 }
