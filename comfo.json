@@ -2,13 +2,13 @@
   "method": "GET",
   "statuscode": [200],
   "inputUrl": "http://103.191.50.59:31337/op/get.php",
-  "threads": 10,
-  "timeout": 15,
+  "threads": 400,
+  "timeout": 10,
    "paths": ["/.aws/credentials", "/sendgrid.env", "/Telerik.Web.UI.WebResource.axd?type=rau", "/.vscode/sftp.json"],
   "contents": [
     "aws_access_key_id",
-    "RadAsyncUpload",
     "SENDGRID_API_KEY",
+    "RadAsyncUpload",
     "\"remotePath\":"
   ],
   "regex": [],
