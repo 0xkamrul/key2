@@ -1,6 +1,6 @@
 {
   "method": "GET",
-  "statuscode": [200, 301],
+  "statuscode": [200],
   "inputUrl": "http://103.191.50.59:31337/op/get.php",
   "threads": 10,
   "timeout": 15,
