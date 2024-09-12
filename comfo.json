@@ -6,12 +6,12 @@
   "timeout": 15,
    "paths": ["/.aws/credentials", "/sendgrid.env", "/Telerik.Web.UI.WebResource.axd?type=rau", "/.vscode/sftp.json"],
   "contents": [
-    "application/json",
+    "aws_access_key_id",
     "RadAsyncUpload",
-    "text/plain",
-    "rsdsdfd"
+    "SENDGRID_API_KEY",
+    "\"remotePath\":"
   ],
   "regex": [],
   "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36",
-  "iterationDelay": 30
+  "iterationDelay": 60
 }
