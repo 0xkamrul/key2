@@ -1,5 +1,5 @@
 {
-  "method": "HEAD",
+  "method": "GET",
   "statuscode": [200, 301],
   "inputUrl": "http://103.191.50.59:31337/op/get.php",
   "threads": 10,
